@@ -19,7 +19,7 @@ Agradeço sinceramente por explorar o Cardápio Digital! Este projeto foi desenv
 - Problemas e Melhorias: Relate problemas ou sugira melhorias através de issues. Sua opinião é valiosa.
 
 ## Integração com Frontend
-Para realizar a integração com o Frontend, você pode clonar o projeto do backend e executá-lo localmente.
+Para realizar a integração com o Frontend, você pode clonar o projeto do Frontend e executá-lo localmente.
 
 - [link do Repositório Frontend](https://github.com/matheus3pires/Cardapio-Digital-Frontend)
 
