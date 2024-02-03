@@ -1,30 +1,26 @@
-# React + TypeScript + Vite
+# Cardápio Digital - Backend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Bem-vindo ao repositório do projeto Cardápio Digital desenvolvido com o framework Java Spring. Este projeto oferece uma solução moderna para a gestão eficiente e interativa de cardápios, ideal para restaurantes, cafés e estabelecimentos similares.
 
-Currently, two official plugins are available:
+## Tecnologias Utilizadas
+- Java Spring Framework 17: Base robusta para o desenvolvimento de aplicativos web escaláveis.
+- Spring Boot Starter Web: Conjunto de dependências para a construção de aplicativos web usando o Spring MVC.
+- Spring Boot DevTools: Ferramentas de desenvolvimento para acelerar o ciclo de desenvolvimento, incluindo reinicialização -automática do aplicativo.
+- Lombok: Biblioteca que simplifica a escrita de código Java, eliminando a necessidade de código repetitivo.
+- Spring Boot Starter Test: Dependências para testes de unidades e integração no ambiente Spring Boot.
+- Spring Boot Starter Data JPA: Facilita a configuração de JPA para acesso eficiente a dados em bancos relacionais.
+- Spring Boot Starter Validation: Suporte para validação de dados usando o mecanismo de validação do Bean Validation.
+- Flyway Database Migration: Ferramenta de migração de banco de dados integrada ao Spring Boot para evolução do esquema.
+- PostgreSQL Driver: Driver JDBC para integração eficiente com o banco de dados PostgreSQL.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Contribuições e Desenvolvimento
+Agradeço sinceramente por explorar o Cardápio Digital! Este projeto foi desenvolvido com dedicação e paixão. Sua participação é fundamental para o seu sucesso contínuo.
+- Contribua: Fique à vontade para contribuir com novas funcionalidades, correções ou sugestões.
+- Problemas e Melhorias: Relate problemas ou sugira melhorias através de issues. Sua opinião é valiosa.
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
 
-- Configure the top-level `parserOptions` property like this:
-
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
-
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+## Minhas Redes
+Fique conectado para mais novidades e atualizações. Não hesite em entrar em contato!
+- Linkedin: [linkedin.com/in/matheuspiress](https://www.linkedin.com/in/matheuspiress/)
+- e-mail: matheuspiressdev@gmail.com
